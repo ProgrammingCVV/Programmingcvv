@@ -12,7 +12,8 @@ Técnico en sistemas, con más de 10 años de experiencia en soporte TI y atenci
 ---
 [![](https://visitcount.itsvg.in/api?id=programmingcvv&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![descarga](https://github.com/user-attachments/assets/5bb7fd4f-e949-442a-a12c-69b1f5bf6c6e)
+<img width="1024" height="1536" alt="Estilizado" src="https://github.com/user-attachments/assets/9c539aef-2418-4325-8faa-2adc7e14263b" />
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
